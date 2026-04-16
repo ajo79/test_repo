@@ -1,3 +1,3 @@
 # Dynamic Demo
 
-Initial version with multiply().
+Updated version with multiply() and divide().
